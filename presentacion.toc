@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.22pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\'on}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Lo que nos ofrece}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Avances}{10}{0}{1}
+\beamer@sectionintoc {2}{Descripci\'on de los Avances}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Inicializar}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Interacci\'on}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Rompecabezas + Video}{17}{0}{2}
+\beamer@subsectionintoc {2}{4}{Desarrollo Proximo}{18}{0}{2}
+\beamer@sectionintoc {3}{Referencias Bibliogr\'aficas}{22}{0}{3}
